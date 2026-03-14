@@ -8,9 +8,9 @@ The dashboard enables decision-makers to explore sales distribution, monitor per
 
 ## Business Questions
 
-What is the total sales performance across the dataset?
-How have sales changed over time?
-Which products generate the highest revenue?
-Which product categories contribute the most to total sales?
-How does sales performance vary across different countries?
-How can the company improve sales strategy based on product and category performance?
+-What is the total sales performance across the dataset?
+-How have sales changed over time?
+-Which products generate the highest revenue?
+-Which product categories contribute the most to total sales?
+-How does sales performance vary across different countries?
+-How can the company improve sales strategy based on product and category performance?
