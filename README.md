@@ -174,3 +174,5 @@ Using the country filters, the company can identify regions with strong demand a
 • Power BI – Data Visualization & Dashboard Development
 • Power Query – Data Cleaning & Transformation
 • DAX – Calculations and KPIs
+
+- Dashboard Interaction <a href="https://github.com/AsmaaSalah234/Data_Analysis_Dashboard/blob/main/sales%20Dashboard%202026.PNG">View Dashboard</a>
