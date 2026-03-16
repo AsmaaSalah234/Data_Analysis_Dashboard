@@ -176,3 +176,6 @@ Using the country filters, the company can identify regions with strong demand a
 • DAX – Calculations and KPIs
 
 - Dashboard Interaction <a href="https://github.com/AsmaaSalah234/Data_Analysis_Dashboard/blob/main/sales%20Dashboard%202026.PNG">View Dashboard</a>
+
+## Dashboard 
+<img width="1450" height="811" alt="sales Dashboard 2026" src="https://github.com/user-attachments/assets/77122274-41f3-4521-b5a8-605b4ccd0a9a" />
